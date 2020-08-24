@@ -17,7 +17,7 @@ lista* lista::clonar() {
 }
 ```
 ## Construyendo la Función ⚙️
-_**T(n)** = 2+4n_
+_**T(n)** = 2+5n_
 ## Eliminando las constantes
 _**T(n)** = n_
 
