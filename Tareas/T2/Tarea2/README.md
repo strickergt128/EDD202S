@@ -20,6 +20,7 @@ lista* lista::clonar() {
 _**T(n)** = 2+4n_
 ## Eliminando las constantes
 _**T(n)** = n_
+
 _**f(n)** = n_
 ## Funcion
 **O(n)**
