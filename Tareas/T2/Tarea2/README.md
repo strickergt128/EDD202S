@@ -1,5 +1,5 @@
 # Tarea 2
-```
+```C++
 lista* lista::clonar() {
     lista* clon = new lista();
     nodo* aux = this->head;
